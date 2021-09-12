@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Mazes-Man-vs-Machine-Release-1.0
+PURPOSE OF PROJECT: SDD Major
+VERSION or DATE: 22/05/2021
+HOW TO START THIS PROJECT: Requires greenfoot, refer to installation guide
+AUTHORS: William S
+USER INSTRUCTIONS: Available once the scenario is run
