@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Buttons
+comment0.text=\r\n\ The\ Buttons\ class\ handles\:\ \r\n\ All\ buttons\ and\ the\ consequent\ initialisation\r\n\ The\ animation\ of\ all\ buttons\r\n\ Checking\ for\ and\ responding\ to\ button\ presses\r\n\ \r\n\ By\ WS\ \r\n\ Version\:\ 22/05/2021\r\n
+comment1.params=buttonType
+comment1.target=Buttons(java.lang.String)
+comment1.text=Constructor\ for\ initialising\ the\ a\ Button\ object\ with\ its\ images\ based\ off\ of\ its\ type\ *
+comment2.params=
+comment2.target=void\ act()
+comment2.text=This\ method\ is\ called\ for\ every\ act\ cycle\ when\ the\ program\ is\ running\ which\ occurs\ when\ the\ run\ or\ act\ button\ is\ pressed\ in\ the\ environment\ *
+comment3.params=
+comment3.target=void\ checkMouseOver()
+comment3.text=Checks\ if\ the\ mouse\ is\ hovering\ over\ the\ button\ and\ sets\ the\ image\ based\ off\ of\ whether\ the\ mouse\ is\ hovering\ over\ the\ button\ *
+comment4.params=
+comment4.target=void\ checkMouseClick()
+comment4.text=Checks\ if\ a\ button\ has\ been\ clicked\ and\ executes\ relevant\ operations\ *
+numComments=5

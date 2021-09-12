@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ The\ Player\ class\ handles\:\ \r\n\ Player\ objects\ and\ the\ consequent\ initialisation\r\n\ Keeping\ track\ of\ the\ time\ elapsed\r\n\ The\ movement\ of\ the\ player\r\n\ Checking\ if\ the\ player\ has\ completed\ a\ maze\r\n\ \r\n\ By\ WS\r\n\ Version\:\ 22/05/2021\r\n
+comment1.params=cellSize
+comment1.target=Player(int)
+comment1.text=Constructor\ for\ the\ initialisation\ of\ a\ player\ object\ *
+comment2.params=
+comment2.target=void\ act()
+comment2.text=This\ method\ is\ called\ for\ every\ act\ cycle\ when\ the\ program\ is\ running\ which\ occurs\ when\ the\ run\ or\ act\ button\ is\ pressed\ in\ the\ environment\ *
+comment3.params=
+comment3.target=void\ movement()
+comment3.text=Handles\ the\ player\ movement\ by\ checking\ for\ inputs\ and\ updating\ the\ players\ position\ when\ it\ is\ a\ legal\ move\ *
+comment4.params=
+comment4.target=boolean\ checkCompleted()
+comment4.text=Checks\ if\ the\ player\ has\ completed\ the\ maze\ *
+numComments=5

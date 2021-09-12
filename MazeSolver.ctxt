@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MazeSolver
+comment0.text=\r\n\ The\ MazeSolver\ class\ handles\:\ \r\n\ MazeSolver\ objects\ and\ the\ consequent\ initialisation\r\n\ The\ solving\ of\ all\ mazes\r\n\ \r\n\ By\ WS\r\n\ Version\:\ 22/05/2021\r\n
+comment1.params=mazeLayout
+comment1.target=MazeSolver(int[][])
+comment1.text=Constructor\ for\ instantiating\ a\ MazeSolver\ object
+comment2.params=
+comment2.target=void\ findShortestSolutionPath()
+comment2.text=Calculates\ the\ shortest\ path\ to\ solve\ the\ maze\ -\ \ breadth\ first\ search\ algorithm\ *
+comment3.params=row\ col
+comment3.target=void\ exploreUnvisitedNeighbouringCells(int,\ int)
+comment3.text=Explores\ the\ unvisited\ neighbours\ of\ a\ cell,\ adding\ them\ to\ the\ queue,\ marking\ them\ as\ visited\ and\ noting\ their\ parent\ cell\ *
+comment4.params=row\ col
+comment4.target=boolean\ notVisited(int,\ int)
+comment4.text=Returns\ whether\ or\ not\ a\ given\ cell\ is\ visited,\ where\ the\ cell\ is\ represented\ by\ the\ row\ and\ column\ index\ in\ the\ mazeLayout\ array\ *
+comment5.params=
+comment5.target=void\ reconstructPath()
+comment5.text=Reconstruct\ the\ path\ that\ the\ maze\ solver\ took\ and\ store\ it\ *
+numComments=6

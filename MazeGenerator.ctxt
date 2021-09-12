@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MazeGenerator
+comment0.text=\r\n\ The\ MazeGenerator\ class\ handles\:\ \r\n\ MazeGenerator\ objects\ and\ the\ consequent\ initialisation\r\n\ The\ generating\ of\ all\ maze\ maps\r\n\ \r\n\ By\ WS\r\n\ Version\:\ 22/05/2021\r\n
+comment1.params=difficulty
+comment1.target=MazeGenerator(java.lang.String)
+comment1.text=Constructor\ for\ instantiating\ a\ MazeGenerator\ object
+comment2.params=
+comment2.target=void\ initialiseMap()
+comment2.text=Creates\ the\ initial\ array\ of\ cells\ to\ base\ the\ maze\ generation\ off\ of\ *
+comment3.params=
+comment3.target=int[][]\ generateMaze()
+comment3.text=The\ method\ used\ to\ generate\ the\ maze\ -\ recursive\ backtracker\ algorithm\ *
+comment4.params=
+comment4.target=void\ getUnvisitedNeighbouringCells()
+comment4.text=Check\ for\ neighbouring\ cells\ that\ are\ unvisited\ and\ add\ them\ to\ unvisitedNeighbouringCells\ list\ *
+comment5.params=row\ col
+comment5.target=boolean\ notVisited(int,\ int)
+comment5.text=Returns\ whether\ or\ not\ a\ given\ cell\ is\ visited,\ where\ the\ cell\ is\ represented\ by\ the\ row\ and\ column\ index\ in\ the\ mazeLayout\ array\ *
+comment6.params=
+comment6.target=void\ moveToRandomUnivistedNeighbouringCell()
+comment6.text=Selects\ a\ random\ neighbouring\ cell\ from\ the\ unvisitedNeighbouringCells\ list\ and\ moves\ to\ it\ *
+numComments=7

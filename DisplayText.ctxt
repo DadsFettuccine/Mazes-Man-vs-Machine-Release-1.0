@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DisplayText
+comment0.text=\r\n\ The\ DisplayText\ class\ handles\:\ \r\n\ All\ text\ to\ be\ displayed\ and\ the\ consequent\ initialisation\r\n\ The\ setting/updating\ of\ a\ DisplayText\ object's\ image\ to\ account\ for\ the\ desired\ text\ to\ be\ displayed\r\n\ \r\n\ By\ WS\r\n\ Version\:\ 22/05/2021\r\n
+comment1.params=textToDisplay\ textSize\ textColour\ backgroundColour
+comment1.target=DisplayText(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color)
+comment1.text=Constructor\ for\ initialising\ a\ displayText\ Object\ with\ an\ image\ that\ corresponds\ to\ the\ desired\ text\ to\ be\ displayed,\ text\ size,\ text\ colour\ and\ background\ colour\ *
+comment2.params=textToDisplay\ textSize\ textColour\ backgroundColour
+comment2.target=void\ updateText(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color)
+comment2.text=Method\ to\ update\ the\ image\ for\ the\ displayText\ object\ with\ the\ new\ desired\ text\ to\ be\ displayed,\ text\ size,\ text\ colour\ and\ background\ colour\ *
+numComments=3
