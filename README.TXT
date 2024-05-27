@@ -2,7 +2,7 @@
 README
 ------------------------------------------------------------------------
 
-The json simple library is an open source library I found on the internet
+This project uses the open source JSON Simple library
 
 PROJECT TITLE: Mazes - Man vs Machine
 PURPOSE OF PROJECT: SDD Major
